@@ -1,6 +1,4 @@
-#boolean in python - True/False 
-
-from heapq import heapify
+#boolean in python - True/False
 
 
 a= 'hello world'
