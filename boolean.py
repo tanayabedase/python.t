@@ -18,3 +18,8 @@ print(bool(e))
 
 print(bool(1))
 print(bool(7.5))
+print(110 > 11)
+print(10 == 9)
+print(210 < 9)
+print(bool('yoo'))
+print(bool(67))
