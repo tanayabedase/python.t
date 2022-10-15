@@ -28,7 +28,7 @@ print(x ** y) #//exponential same as 2*2*2
 
 #2   Assignment operators
 
-a=8 #assiging the value 5 to varibale a
+a=8 #assiging the value 8 to varibale a
 print(a)
 a+=4 #it means same as a=a+4
 print(a)
