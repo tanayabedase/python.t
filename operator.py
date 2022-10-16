@@ -114,4 +114,9 @@ print(6 not in a)
 x = 28
 y = 7
 
+print(x & y)
 print(x | y)
+print(x ^ y)
+print(x % y)
+print(x << y)
+print(x >> y)
