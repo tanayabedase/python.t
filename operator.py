@@ -80,3 +80,38 @@ b=[28,369]
 c=a
 print(a is c) #returns true if both the variables are the same object pointing to a same memory location
 print(b is a) ##it will return false because only object is same but the memory location is different here
+
+
+#Membership Operators
+
+# These operators are used to test if a sequence is present or not in an object
+
+a = [3,6,9,28]
+
+print(6 in a)
+
+print(6 not in a)
+
+# in => it returns true if a sequence is present in an object
+# not in => it returns true if a sequence is not present in an object
+
+# BITWISE OPERATORS
+# They are used to compare binary numbers
+
+# & => AND => if both bits are 1, it sets each bit to 1 , otherwise 0
+
+# | => OR => if one of the two bits is 1 , it sets each bit to 1 , otherwise 0
+
+# ^ => XOR => if only one of the two bits is 1 , it sets each bit to 1
+
+# ~ => NOT => complement operator, it returns one's complement of the number
+
+# << => Zero fill left shift => the binary number is appended with 0's at the end
+
+# >> => Right SHift => In simple terms, the right side of the bits are removed
+
+
+x = 28
+y = 7
+
+print(x | y)
